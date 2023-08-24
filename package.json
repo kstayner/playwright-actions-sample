@@ -1,0 +1,14 @@
+{
+  "name": "playwright-actions-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {},
+  "author": "Klebson Leite",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
